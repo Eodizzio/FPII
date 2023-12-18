@@ -1,0 +1,12 @@
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\bin\Debug\net6.0\Backend.deps.json
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\bin\Debug\net6.0\Backend.dll
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\bin\Debug\net6.0\Backend.pdb
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\obj\Debug\net6.0\Backend.dll
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\obj\Debug\net6.0\refint\Backend.dll
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\obj\Debug\net6.0\Backend.pdb
+D:\C#\FINAL PROGRA II\Práctico\FR\ParcialSln\Backend\obj\Debug\net6.0\ref\Backend.dll
